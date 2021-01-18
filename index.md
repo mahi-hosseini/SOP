@@ -5,7 +5,6 @@
 <meta chaset="utf-8">
 <div dir="rtl">
 <title> انگیزه نامه </title>
-</head>
 <body>
 <div dir="rlt">
 با سلام
