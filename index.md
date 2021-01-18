@@ -1,5 +1,6 @@
 <I DOCTYPE html>
 <html dir="rtl" lang="fa">
+<html>
 <head>
 <meta chaset="utf-8">
 <div dir="rtl">
@@ -23,6 +24,7 @@
 <br>
 تا بتوانم در آینده در کنار بهترین برنامه نویسان و در بهترین شرکت ها و کمپانی ها کار کنم .
 <br>
+</head>
 </div>
 </body>
 </html>
