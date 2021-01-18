@@ -2,6 +2,7 @@
 <html dir="rtl" lang="fa">
 <head>
 <meta chaset="utf-8">
+<div dir="rtl">
 <title>انگیزه نامه </title>
 </head>
 <body>
