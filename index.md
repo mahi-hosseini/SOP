@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/mahi-hosseini/SOP/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mahi-hosseini/SOP/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<I DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+<meta chaset="utf-8">
+<title>صفحه‌ ے فارسے راست چین مے باشد</title>
+</head>
+<body>
+<div dir="rlt">
+با سلام
+‌<br>
+مهدیه حسینی هستم . متولد ۲۸ اسفند سال ۷۸ .
+<br>
+به علت علاقه فراوان به ریاضیات ؛ در دوران دبیرستان رشته ی ریاضی و فیزیک را برای ادامه تحصیلات انتخاب کردم . 
+<br>
+  هم اکنون در دانشگاه پیام نور شهریار در حال تحصیل در مقطع کارشناسی رشته مهندسی کامپیوتر هستم .
+<br>
+در مقطع راهنمایی بودم که کلاس هایی در رابطه با کامپیوتر در مدرسمان برگزار شد . ثبت نام کردم و متوجه شدم که واقعا به این رشته علاقه مند هستم . پس در هنگام انتخاب رشته اولین اولیتم رشته ی مهندسی کامپیوتر را زدم . 
+‌<br>
+در دبیرستان بسیار نمرات عالی کسب میکردم روزی که متوجه شدم در رشته کامپیوتر قبول شدم بسیار خوشحال شدم زیرا کار با کامپیوتر برایم لذت بخش بود.
+درحال حاضر میخواهم یک زبان برنامه نویسی را شروع کنم و خود را به حد عالی برسانم.
+یکی از خصوصیات رفتاری من کنجکاو بودن و صبور بودن من است و همین باعث شد در این رشته قدم بگذارم.
+‌<br>
+اهداف من‌ ‌: ‌
+<br>
+یک برنامه نویس ماهر شوم که بتوانم هم به دیگران آموزش دهم هم پروژه تحویل بگیرم و ارائه بدهم و به کارهای بزرگتری دامن بزنم.
+</div>
+</body>
+</html>
